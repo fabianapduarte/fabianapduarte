@@ -20,11 +20,11 @@
 
 ### 📫 How to reach me
 <div style="display: flex; margin-top: 10px;">
-  <a target="_blank" href="https://www.linkedin.com/in/fabianapduarte/">
+  <a style="margin-right: 20px" target="_blank" href="https://www.linkedin.com/in/fabianapduarte/">
     <img height="25px" src="./.github/linkedin.png">
   <a>
   
-  <a target="_blank" href="mailto:fabianaduarte980@gmail.com">
+  <a style="margin-right: 20px" target="_blank" href="mailto:fabianaduarte980@gmail.com">
     <img height="25px" src="./.github/gmail.png">
   <a>
 </div>
