@@ -1,9 +1,8 @@
 # Welcome to my profile! 👋🏻 
 
 ### 👩🏻‍💻 About me
-- I'm a web development student at Instituto Federal do Rio Grande do Norte.
-- I like to program on the back end, but I am very interested in improving my skills on the front end.
-- I'm also open to new jobs opportunities.
+- I am a technician in internet computing at Instituto Federal do Rio Grande do Norte.
+- I am a web developer and open to new jobs opportunities.
 
 ### 🖥 Technologies
 `HTML`
@@ -15,7 +14,6 @@
 `JavaScript`
 `React`
 `Node.JS`
-`.NET`
 `PHP`
 
 ### 📫 How to reach me
