@@ -1,8 +1,7 @@
 # Welcome to my profile! 👋🏻 
 
 ### 👩🏻‍💻 About me
-- I am a technician in internet computing at Instituto Federal do Rio Grande do Norte.
-- I am a web developer and open to new jobs opportunities.
+I am a web developer, technician in Internet Computing at Instituto Federal do Rio Grande do Norte and starting my studies in Information Technology graduation at Universidade Federal do Rio Grande do Norte. I am currently focusing my studies on front-end development.
 
 ### 🖥 Technologies
 `HTML`
@@ -12,7 +11,7 @@
 
 ### 🌱 Learning and interests
 `JavaScript`
-`React`
+`ReactJS`
 `Node.JS`
 `PHP`
 
