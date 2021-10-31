@@ -25,3 +25,5 @@ I am a web developer, technician in Internet Computing at Instituto Federal do R
     <img height="25px" src="./.github/gmail.png">
   <a>
 </div>
+
+![Snake animation](https://github.com/fabianapduarte/fabianapduarte/blob/output/github-contribution-grid-snake.svg)
