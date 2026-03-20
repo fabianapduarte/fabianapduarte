@@ -3,32 +3,9 @@
 ## Welcome to my profile! 👋🏻 
 
 ### 👩🏻‍💻 About me
-I am a web developer, technician in Internet Computing at Instituto Federal do Rio Grande do Norte and studying in Information Technology graduation at Universidade Federal do Rio Grande do Norte. I am currently focusing my studies on front-end development.
+Full-stack developer with experience in developing web applications with React and Node.js in all stages of the development cycle, from implementation to delivery and support of solutions in production. Graduated in Information Technology from the Universidade Federal do Rio Grande do Norte (UFRN) and holds a technical degree in Internet Informatics from the Federal Instituto Federal do Rio Grande do Norte (IFRN).
 
 ### 🖥 Technologies
-<div style="display: flex">
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-### 🌱 Learning and interests
-<div style="display: flex">
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-</div>
-
-### 📫 How to reach me
-<div style="display: flex; margin-top: 10px;">
-  <a style="margin-right: 20px" target="_blank" href="https://www.linkedin.com/in/fabianapduarte/">
-    <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a>
-  
-  <a style="margin-right: 20px" target="_blank" href="mailto:fabianaduarte980@gmail.com">
-    <img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a>
-</div>
+* Front-end: React, HTML5, CSS3, JavaScript (ES6+), web accessibility, micro front-ends, Cypress, Single SPA, Webpack
+* Back-end: Node.js, REST APIs, microservices, MongoDB, RabbitMQ, Golang
+* Development practices: Git, Scrum, integration with AI APIs
